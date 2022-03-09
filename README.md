@@ -14,8 +14,8 @@
    $ git clone https://github.com/goodluck3301/3301osint
    ```
    ```
-   $ cd DraculaOSINT
+   $ cd 3301osint
    ```
    ```
-   $ bash dracula.sh
+   $ bash goodluck_Osint.sh
  
