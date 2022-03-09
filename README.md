@@ -1,6 +1,6 @@
 # 3301 Osint
 
-+ How to Install
+### How to Install
    ```
    $ sudo apt-get update
    ```
