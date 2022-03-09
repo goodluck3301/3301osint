@@ -15,12 +15,11 @@ printf "\e[1;77m ╭╮╰╮┣╮╰╮┃┃┃┃┃┃┃┃╭╮┃━━
 printf "\e[1;77m ┃╰━╯┃╰━╯┃╰━╯┣╯╰┫╰╯┣━━┃┃┃┃┃╰╮ \n"
 printf "\e[1;77m ╰━━━┻━━━┻━━━┻━━┻━━┻━━┻┻╯╰┻━╯ \n"
 printf "\n"
-printf "\e[1;93m Telegram  t.me/world_out\e[0m\n"
+printf "\n"
 printf "\e[1;93m GitHub    https://github.com/goodluck3301\e[0m\n"
 printf "\n"
 printf ".-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-..--.-.-.-.-..--.-.-.-.-.-.-.-.-.-..--.-.-.-.-.-.-.-\n\n"
                                                 
-
 
 }
 
