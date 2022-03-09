@@ -1,6 +1,6 @@
 # 3301 Osint
 
-+ Download Linux
++ How to Install
    ```
    $ sudo apt-get update
    ```
