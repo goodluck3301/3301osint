@@ -1,4 +1,4 @@
-# DraculaOSINT
+# 3301 Osint
 
 + Download Linux
    ```
@@ -11,7 +11,7 @@
    $ sudo apt-get install git
    ```
    ```
-   $ git clone https://github.com/Dracuila/DraculaOSINT
+   $ git clone https://github.com/goodluck3301/3301osint
    ```
    ```
    $ cd DraculaOSINT
